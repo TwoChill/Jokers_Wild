@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Project-specific: never publish
+CLAUDE.md
+INTENT.md
+test_base.py
+coins.json
+.claude/
+.idea/
+for_shadowcast.md
