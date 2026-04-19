@@ -18,6 +18,13 @@ You get 5 cards, choose which ones to swap, and try to make the best poker hand 
 
 ---
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+python playme.py
+```
+
 ## What you need
 
 1. **Python 3.8 or newer.** If you don't have it yet, download it from [python.org](https://www.python.org/downloads/). During installation on Windows, make sure to check the box that says **"Add Python to PATH"**.
